@@ -11,6 +11,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Chicken Biryani",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "1 kg chicken",
                     "500g basmati rice",
@@ -21,6 +23,8 @@
             },
             "recipe_2": {
                 "name": "Beef Bhuna",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "1 kg beef",
                     "2 onions",
@@ -31,6 +35,8 @@
             },
             "recipe_3": {
                 "name": "Prawn Malai Curry",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "500g prawns",
                     "1 onion",
@@ -53,6 +59,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Fish Curry",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "500g fish",
                     "2 onions",
@@ -63,6 +71,8 @@
             },
             "recipe_2": {
                 "name": "Chana Masala",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "2 cups chickpeas",
                     "2 onions",
@@ -73,6 +83,8 @@
             },
             "recipe_3": {
                 "name": "Mutton Korma",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "1 kg mutton",
                     "2 onions",
@@ -95,6 +107,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Shorshe Ilish",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Ilish (Hilsa fish)",
                     "Mustard oil",
@@ -106,6 +120,8 @@
             },
             "recipe_2": {
                 "name": "Bhorta",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Boiled potato",
                     "Onion",
@@ -116,6 +132,8 @@
             },
             "recipe_3": {
                 "name": "Chingri Malaikari",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Prawns",
                     "Coconut milk",
@@ -139,6 +157,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Kacchi Biryani",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Basmati rice",
                     "Mutton",
@@ -151,6 +171,8 @@
             },
             "recipe_2": {
                 "name": "Beef Bhuna",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Beef",
                     "Onion",
@@ -162,6 +184,8 @@
             },
             "recipe_3": {
                 "name": "Mishti Doi",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Milk",
                     "Yogurt",
@@ -184,6 +208,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Kacchi Biryani",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Basmati rice",
                     "Mutton",
@@ -195,6 +221,8 @@
             },
             "recipe_2": {
                 "name": "Beef Bhuna",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Beef",
                     "Onion",
@@ -205,6 +233,8 @@
             },
             "recipe_3": {
                 "name": "Mishti Doi",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Milk",
                     "Yogurt",
@@ -227,6 +257,8 @@
         "recipe": {
             "recipe_1": {
                 "name": "Kacchi Biryani",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Basmati rice",
                     "Mutton",
@@ -238,6 +270,8 @@
             },
             "recipe_2": {
                 "name": "Beef Bhuna",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Beef",
                     "Onion",
@@ -249,6 +283,8 @@
             },
             "recipe_3": {
                 "name": "Mishti Doi",
+                "method": "Because they need different temperatures, experts argue that the meat and the vegetables should be cooked separately — the meat needs to brown, while vegetables should sweat. Once cooked, only then should they be mixed together. Another thing to be mindful of is salt. Vegetables release liquid when salted, so if it’s added too soon, there’s a risk they will burn.",
+                "food_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0HGLA30iEqX3lnBxZS5ZaMsBqBMYNpNoOg&usqp=CAU",
                 "ingredients": [
                     "Milk",
                     "Yogurt",
