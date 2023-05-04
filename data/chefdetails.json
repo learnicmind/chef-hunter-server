@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Zakir Ahmed",
+        "experience": 5,
+        "chef_img": "https://i.ibb.co/NrskjYh/chef1.jpg",
+        "likes": 355,
+        "total_recipe": 34,
+        "chef_bio": "Zakir Ahmed is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/sP1r48v/c2.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Chicken Biryani",
+                "ingredients": [
+                    "1 kg chicken",
+                    "500g basmati rice",
+                    "2 onions",
+                    "1 cup yogurt",
+                    "2 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "Salt to taste"
+                ]
+            },
+            "recipe_2": {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "1 kg beef",
+                    "2 onions",
+                    "2 tbsp ginger paste",
+                    "2 tbsp garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp chili powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste"
+                ]
+            },
+            "recipe_3": {
+                "name": "Prawn Malai Curry",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion",
+                    "1 cup coconut milk",
+                    "2 tbsp mustard oil",
+                    "2 green chilies",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp turmeric powder",
+                    "Salt to taste"
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "chef_name": "Rahim Khan",
+        "experience": 3,
+        "chef_img": "https://i.ibb.co/qMntwS5/chef2.jpg",
+        "likes": 555,
+        "total_recipe": 24,
+        "chef_bio": "Rahim Khan is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/9n49KKv/c1.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Fish Curry",
+                "ingredients": [
+                    "500g fish",
+                    "2 onions",
+                    "1 tomato",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp chili powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste"
+                ]
+            },
+            "recipe_2": {
+                "name": "Chana Masala",
+                "ingredients": [
+                    "2 cups chickpeas",
+                    "2 onions",
+                    "1 tomato",
+                    "2 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 tsp chili powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste"
+                ]
+            },
+            "recipe_3": {
+                "name": "Mutton Korma",
+                "ingredients": [
+                    "1 kg mutton",
+                    "2 onions",
+                    "1 cup yogurt",
+                    "2 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 tsp chili powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste"
+                ]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "chef_name": "Shawkat Osman",
+        "experience": 4,
+        "chef_img": "https://i.ibb.co/dW1ymZk/chef3.jpg",
+        "likes": 655,
+        "total_recipe": 74,
+        "chef_bio": "Shawkat Osman is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/7btF7kQ/c4.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Ilish (Hilsa fish)",
+                    "Mustard oil",
+                    "Mustard paste",
+                    "Green chilli",
+                    "Turmeric powder",
+                    "Salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Bhorta",
+                "ingredients": [
+                    "Boiled potato",
+                    "Onion",
+                    "Green chilli",
+                    "Mustard oil",
+                    "Salt"
+                ]
+            },
+            "recipe_3": {
+                "name": "Chingri Malaikari",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Ghee",
+                    "Cinnamon",
+                    "Cardamom",
+                    "Cloves",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Green chilli",
+                    "Sugar",
+                    "Salt"
+                ]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "chef_name": "Kamal Ahmed",
+        "experience": 3,
+        "chef_img": "https://i.ibb.co/7SSQ1Ww/chef4.jpg",
+        "likes": 355,
+        "total_recipe": 34,
+        "chef_bio": "Kamal Khan is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/G3h7DR4/c5.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Kacchi Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Mutton",
+                    "Yogurt",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Onion",
+                    "Green chilli",
+                    "Ghee",
+                    "Saffron",
+                    "Milk",
+                    "Bay leaves",
+                    "Cinnamon",
+                    "Cardamom",
+                    "Cloves",
+                    "Salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Tomato",
+                    "Green chilli",
+                    "Red chilli powder",
+                    "Turmeric powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Garam masala",
+                    "Mustard oil",
+                    "Salt"
+                ]
+            },
+            "recipe_3": {
+                "name": "Mishti Doi",
+                "ingredients": [
+                    "Milk",
+                    "Yogurt",
+                    "Sugar",
+                    "Cardamom",
+                    "Caramel sauce"
+                ]
+            }
+        }
+    },
+    {
+        "id": 189,
+        "chef_name": "Shaded Khan",
+        "experience": 3,
+        "chef_img": "https://i.ibb.co/tCyZtbs/chef6.jpg",
+        "likes": 323,
+        "total_recipe": 31,
+        "chef_bio": "Shahed Khan is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/qjhshW4/c6.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Kacchi Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Mutton",
+                    "Yogurt",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Onion",
+                    "Green chilli",
+                    "Ghee",
+                    "Saffron",
+                    "Milk",
+                    "Bay leaves",
+                    "Cinnamon",
+                    "Cardamom",
+                    "Cloves",
+                    "Salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Tomato",
+                    "Green chilli",
+                    "Red chilli powder",
+                    "Turmeric powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Garam masala",
+                    "Mustard oil",
+                    "Salt"
+                ]
+            },
+            "recipe_3": {
+                "name": "Mishti Doi",
+                "ingredients": [
+                    "Milk",
+                    "Yogurt",
+                    "Sugar",
+                    "Cardamom",
+                    "Caramel sauce"
+                ]
+            }
+        }
+    },
+    {
+        "id": 159,
+        "chef_name": "Ekram Uddin",
+        "experience": 3,
+        "chef_img": "https://i.ibb.co/5jgxhf2/chef5.jpg",
+        "likes": 123,
+        "total_recipe": 19,
+        "chef_bio": "Ekram Uddin is a renowned chef in Bangladesh with over 20 years of experience in the culinary industry. He is known for his innovative recipes that blend traditional Bengali flavors with modern techniques.",
+        "banner_image": "https://i.ibb.co/3STyv5f/c3.jpg",
+        "recipe": {
+            "recipe_1": {
+                "name": "Kacchi Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Mutton",
+                    "Yogurt",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Onion",
+                    "Green chilli",
+                    "Ghee",
+                    "Saffron",
+                    "Milk",
+                    "Bay leaves",
+                    "Cinnamon",
+                    "Cardamom",
+                    "Cloves",
+                    "Salt"
+                ]
+            },
+            "recipe_2": {
+                "name": "Beef Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste",
+                    "Tomato",
+                    "Green chilli",
+                    "Red chilli powder",
+                    "Turmeric powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Garam masala",
+                    "Mustard oil",
+                    "Salt"
+                ]
+            },
+            "recipe_3": {
+                "name": "Mishti Doi",
+                "ingredients": [
+                    "Milk",
+                    "Yogurt",
+                    "Sugar",
+                    "Cardamom",
+                    "Caramel sauce"
+                ]
+            }
+        }
+    }
+]
